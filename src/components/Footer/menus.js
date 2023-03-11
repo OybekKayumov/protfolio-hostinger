@@ -1,5 +1,5 @@
 export const PRODUCTS = [
-  { name: "Js capstone", link: "#" },
+  { name: "JavaScript capstone", link: "#" },
   { name: "E-commerce", link: "#" },
   { name: "React Capstone", link: "#" },
   { name: "Ruby On Rails Capstone", link: "#" },
@@ -13,7 +13,7 @@ export const RESOURCES = [
 ];
 export const COMPANY = [
   { name: "Microverse", link: "#" },
-  { name: "Asaka bank", link: "#" },
+  { name: "Bank", link: "#" },
   { name: "University", link: "#" },
   { name: "Institute", link: "#" },
   { name: "Online communities", link: "#" },
